@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center"
+	android:orientation="vertical"
+	android:background="@drawable/image_1">
+
+	<ImageView
+		android:layout_height="80dp"
+		android:layout_width="100dp"
+		android:src="@drawable/nico"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="雷晶鑫"
+		android:alpha="0.9"
+		android:id="@+id/mainButton1"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="移动1701"
+		android:alpha="0.9"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="2017130503"
+		android:alpha="0.9"/>
+
+</LinearLayout>
+
